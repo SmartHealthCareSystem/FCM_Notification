@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FcmWithAppserver</string>
+    <string name="FCM_PREF">com.example.brother.fcmwithappserver.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.brother.fcmwithappserver.fcm_token</string>
+</resources>

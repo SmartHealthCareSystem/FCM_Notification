@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "223016377975",
+    "firebase_url": "https://my-project-1480973276963.firebaseio.com",
+    "project_id": "my-project-1480973276963",
+    "storage_bucket": "my-project-1480973276963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223016377975:android:1008b962928fbe2a",
+        "android_client_info": {
+          "package_name": "com.example.brother.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223016377975-uq86rfrimocf0io6tfpervrtoed1mkrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brother.myproject",
+            "certificate_hash": "eefe71f4f31786db8bbd735db59070738a6981d8"
+          }
+        },
+        {
+          "client_id": "223016377975-5q23lgn8ofcb13vja0i5jvqv67qpb1eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxhMm9JLlj-uVRLtOLoPUjnC44t8CnnBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223016377975-5q23lgn8ofcb13vja0i5jvqv67qpb1eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223016377975:android:671d255716e6bed6",
+        "android_client_info": {
+          "package_name": "com.example.brother.fcmwithappserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223016377975-5q23lgn8ofcb13vja0i5jvqv67qpb1eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxhMm9JLlj-uVRLtOLoPUjnC44t8CnnBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
